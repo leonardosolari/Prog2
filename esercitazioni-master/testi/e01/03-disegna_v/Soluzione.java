@@ -1,0 +1,7 @@
+/**
+ * Soluzione
+ */
+public class Soluzione {
+
+    
+}

@@ -1,0 +1,4 @@
+[ExecutionException] Exit status: 1 (non-zero), errors: "Exception in thread "main" EmptyException: Impossibile estrarre elemento. Coda vuota.
+	at IntQueue.dequeue(IntQueue.java:106)
+	at Test.main(Test.java:21)
+"
