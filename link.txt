@@ -6,3 +6,7 @@ https://prog2unimi-temi-svolti.netlify.app
 *Github con tutto
 https://github.com/orgs/prog2-unimi/repositories
 
+COSE UTILI
+Grassetto --> classe
+Corsivo --> attributi o metodi
+
